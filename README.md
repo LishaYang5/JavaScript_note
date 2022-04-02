@@ -19,9 +19,9 @@ JavaScript 历史
 
 1. 内部标签使用
    '''
-    <script>
-        //..
-    </script>
+     <script>
+         //..
+     </script>
 
     '''
 
@@ -32,7 +32,9 @@ JavaScript 历史
    '''
    test.html
    '''
-    <script src='abc.js'>
-        //..
-    </script>
+     <script src='abc.js'>
+         //..
+     </script>
     '''
+
+### 基本语法入门
